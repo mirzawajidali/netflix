@@ -1,0 +1,26 @@
+.nav_home{
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.netflix_home_logo{
+    height: 70px;
+    position: fixed;
+    left: 20px;
+    top: 10px;
+}
+.signin_button{
+    position: fixed;
+    right: 20px;
+    top: 25px;
+    padding: 10px 20px;
+    background-color: #e40c14;
+    color: #fff;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

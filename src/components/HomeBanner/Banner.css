@@ -1,0 +1,7 @@
+.home_banner{
+    background-image: url('/src//components//HomeBanner//banner.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: 222;
+}
